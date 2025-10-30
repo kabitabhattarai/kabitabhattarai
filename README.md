@@ -7,7 +7,7 @@ Skilled in data cleaning, exploratory data analysis, and visualization, with a s
 Developed and executed three data-driven projects: 
 HR analysis using Excel 
 Retail Sales Analysis with SQL
-Simulated Brain Tumor Analysis in Python(with kNN classification)
+Simulated Brain Tumor Analysis in Python
 All featuring cleaning, EDA, visualization 
 
 Passionate about leveraging technology to drive business insights. Creative thinker with hobbies in drawing, hiking, and video games.
