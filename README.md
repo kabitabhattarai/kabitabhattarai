@@ -4,10 +4,10 @@ Detail-oriented Data Analyst student with hands-on experience in SQL, Excel (inc
 Skilled in data cleaning, exploratory data analysis, and visualization, with a strong business foundation from managing a family business. 
 
 
-Developed and executed three data-driven projects: 
+Projects included: 
 HR analysis using Excel 
 Retail Sales Analysis with SQL
 Simulated Brain Tumor Analysis in Python
 All featuring cleaning, EDA, visualization 
 
-Passionate about leveraging technology to drive business insights. Creative thinker with hobbies in drawing, hiking, and video games.
+
